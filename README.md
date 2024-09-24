@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mandefro Teshome
 - 👀 I’m interested in coding and developing web applications.
-- 🌱 I’m currently learning front-end web development, focusing on HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning front-end web development, focusing on HTML, CSS, JavaScript, Bootsrap and React js.
 - 💞️ I’m looking to collaborate on web development projects, especially those related to front-end technologies.
 - 📫 How to reach me: You can contact me via email at [mandefroteshome7@gmail.com].
 - 😄 Pronouns: He/Him
